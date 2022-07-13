@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Chanukshi Hirushani Gamage👋
 - 📚 I am currently a undergraduate reading a BSc Hons in Information technology, Specializing Software Engineering at SLIIT. 
-- 🌱 I have experience in Angular , react 
+- 🌱 I have  experience in Front-End Development ( Angular, React, Scala, HTML, CSS, Bootstrap, JavaScript)
+- 🌱 I have  experience in Backend-End Development ( Java Framework , ASP.NET Core, C#)
+- 🌱 I have experience in using Microsoft SQL , MySQL , MongoDb databases.
 - 👯 I'm looking to collaborate on each and every section that I assign.
 - 🤔 I'm looking for help with learning new things very quickly.
 - 💬 Ask me about me
